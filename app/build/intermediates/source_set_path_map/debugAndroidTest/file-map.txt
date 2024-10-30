@@ -1,0 +1,6 @@
+com.example.inventory.test.app-core-1.5.0-0 C:\Users\simi2\.gradle\caches\transforms-4\3b4cca56cb823bdc8420461c53dd0f8d\transformed\core-1.5.0\res
+com.example.inventory.test.app-annotation-experimental-1.3.0-1 C:\Users\simi2\.gradle\caches\transforms-4\435ca53d9eca57690b426481691146a7\transformed\annotation-experimental-1.3.0\res
+com.example.inventory.test.app-androidTest-2 C:\Users\simi2\Downloads\MovilBD\EntregasMovil\basic-android-kotlin-compose-training-inventory-app-room\app\build\generated\res\resValues\androidTest\debug
+com.example.inventory.test.app-mergeDebugAndroidTestResources-3 C:\Users\simi2\Downloads\MovilBD\EntregasMovil\basic-android-kotlin-compose-training-inventory-app-room\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.inventory.test.app-mergeDebugAndroidTestResources-4 C:\Users\simi2\Downloads\MovilBD\EntregasMovil\basic-android-kotlin-compose-training-inventory-app-room\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.inventory.test.app-merged_res-5 C:\Users\simi2\Downloads\MovilBD\EntregasMovil\basic-android-kotlin-compose-training-inventory-app-room\app\build\intermediates\merged_res\debugAndroidTest
